@@ -1,0 +1,110 @@
+9-23-2023 08:59:05-debug: asset-db:worker-init (2550ms)
+9-23-2023 08:59:05-debug: Preimport db internal success
+9-23-2023 08:59:05-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/prefabsbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:05-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resourcesbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:05-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/scenesbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:05-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/scriptsbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:05-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/resbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:05-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/soundsbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:05-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/scripts/Config.tsbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:05-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/scripts/AudioMgr.tsbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:05-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/scripts/GameControl.tsbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:05-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/scripts/Tooth.tsbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:05-debug: Preimport db assets success
+9-23-2023 08:59:06-debug: asset-db:worker-effect-data-processing (486ms)
+9-23-2023 08:59:16-debug: Set detail map pack:///resolution-detail-map.json: {}
+9-23-2023 08:59:16-debug: Start up the 'internal' database...
+9-23-2023 08:59:16-debug: asset-db:worker-init-script (91ms)
+9-23-2023 08:59:17-debug: start asset-db with asset: 419
+9-23-2023 08:59:17-debug: Start up the 'assets' database...
+9-23-2023 08:59:17-debug: asset-db:worker-startup-database[internal] (11464ms)
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/scenes/game.scenebackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/prefabs/tooth_c.prefabbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/ad_bg.pngbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/background.jpgbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/back.pngbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/background_pattern_1.jpgbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/background_grass.jpgbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/background.jpg@6c48abackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/background.jpg@f9941background: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/back.png@6c48abackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/ad_bg.png@6c48abackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/back.png@f9941background: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/ad_bg.png@f9941background: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/background_pattern_1.jpg@6c48abackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/background_grass.jpg@6c48abackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/background_pattern_1.jpg@f9941background: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/background_grass.jpg@f9941background: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/background_wood.jpgbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/barrel.pngbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/barrel_head.pngbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/background_wood.jpg@6c48abackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/barrel_slot.pngbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/background_wood.jpg@f9941background: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/barrel.png@6c48abackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/barrel_head.png@6c48abackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/barrel_slot_case.pngbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/barrel.png@f9941background: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/crocodile.pngbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/barrel_head.png@f9941background: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/barrel_slot.png@6c48abackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/barrel_slot.png@f9941background: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/crocodile_oral_bottom.pngbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/crocodile_oral_top.pngbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/barrel_slot_case.png@6c48abackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/crocodile.png@6c48abackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/barrel_slot_case.png@f9941background: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/down.pngbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:17-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/crocodile.png@f9941background: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/game_over.wavbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/crocodile_oral_bottom.png@6c48abackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/down.png@6c48abackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/info_bg.pngbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/crocodile_oral_bottom.png@f9941background: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/down.png@f9941background: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/crocodile_oral_top.png@6c48abackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/crocodile_oral_top.png@f9941background: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/navibar_bg.pngbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/next.pngbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/info_bg.png@6c48abackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/setting_bg.pngbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/info_bg.png@f9941background: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/navibar_bg.png@6c48abackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/next.png@6c48abackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/navibar_bg.png@f9941background: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/setting_btn.pngbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/next.png@f9941background: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/show_btn.pngbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/setting_bg.png@6c48abackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/show_btn_arrow.pngbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/setting_bg.png@f9941background: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/table_cell.pngbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/show_btn.png@6c48abackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/setting_btn.png@6c48abackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/show_btn.png@f9941background: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/show_btn_arrow.png@6c48abackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/setting_btn.png@f9941background: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/show_btn_arrow.png@f9941background: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/table_section.pngbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/table_cell.png@6c48abackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/table_cell.png@f9941background: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/sounds/click.wavbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/tooth_c.pngbackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/table_section.png@6c48abackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/table_section.png@f9941background: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/tooth_c.png@6c48abackground: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: %cImport%c: /Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/tooth_c.png@f9941background: #aaff85; color: #000;color: #000;
+9-23-2023 08:59:18-debug: start asset-db with asset: 38
+9-23-2023 08:59:18-debug: Asset DB is ready!
+9-23-2023 08:59:18-debug: asset-db:worker-startup-database[assets] (12677ms)
+9-23-2023 08:59:18-debug: init worker message success
+9-23-2023 08:59:22-debug: builder:worker-init (4172ms)
+9-23-2023 08:59:24-debug: programming:execute-script (4ms)
+9-23-2023 09:00:54-debug: refresh db internal success
+9-23-2023 09:00:54-debug: asset-db:worker-effect-data-processing (654ms)
+9-23-2023 09:00:54-debug: refresh db assets success
+9-23-2023 09:00:54-debug: asset-db:refresh-all-database (869ms)
+9-23-2023 09:01:39-debug: refresh db internal success
+9-23-2023 09:01:40-debug: asset-db:worker-effect-data-processing (717ms)
+9-23-2023 09:01:40-debug: refresh db assets success
+9-23-2023 09:01:40-debug: asset-db:refresh-all-database (896ms)

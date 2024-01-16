@@ -1,0 +1,610 @@
+{
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/prefabs": {
+    "time": 1687146101000,
+    "uuid": "acd46fa8-ea16-48be-a371-8ae7a344d61d",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources": {
+    "time": 1687146101000,
+    "uuid": "974b1f1b-3c69-4c3e-9bd5-be7090f23728",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/scenes": {
+    "time": 1687146101000,
+    "uuid": "95ba948e-9529-41f0-9a68-93d35f821cb4",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/scripts": {
+    "time": 1687146101000,
+    "uuid": "d61a3fb3-dc0e-4c0e-beef-6d55147e80e3",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res": {
+    "time": 1687146101000,
+    "uuid": "034c3f94-9696-487b-822c-2aa9604e5399",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/sounds": {
+    "time": 1687146101000,
+    "uuid": "87e5f0b9-c657-4af2-a998-82bca11ec872",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/scripts/AudioMgr.ts": {
+    "time": 1687146101000,
+    "uuid": "ead68b0f-1401-4594-a5e2-0a5a8501b186",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/scripts/Config.ts": {
+    "time": 1687146101000,
+    "uuid": "b6f79a30-3216-4e2d-ba87-b2d218d5766a",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/scripts/GameControl.ts": {
+    "time": 1687253706000,
+    "uuid": "e8ebddf6-1b35-4358-b0d1-5e9f57ecbc68",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/scripts/Tooth.ts": {
+    "time": 1687164195000,
+    "uuid": "524a9e28-905f-4c4a-8a10-dd7a7598e1bb",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/prefabs.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/scenes.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/scripts.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/sounds.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/scripts/AudioMgr.ts.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/scripts/Config.ts.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/scripts/GameControl.ts.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/scripts/Tooth.ts.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/prefabs/tooth_c.prefab": {
+    "time": 1687164253000,
+    "uuid": "97d8a375-209c-40b1-9e01-0cb95ac9910c",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/scenes/game.scene": {
+    "time": 1687578937000,
+    "uuid": "0206c529-a86c-4db8-9af5-ea64a8e6dcb0",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/ad_bg.png": {
+    "time": 1687146101000,
+    "uuid": "639f1607-acba-4673-bf7b-cdec7137e2df",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/back.png": {
+    "time": 1687146101000,
+    "uuid": "487b6220-7bf4-4431-8826-ff5af5560037",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/background.jpg": {
+    "time": 1687146101000,
+    "uuid": "e7d99f9f-e9e0-44d1-a4d8-43c72504bec3",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/background_grass.jpg": {
+    "time": 1687146101000,
+    "uuid": "fec8cc07-39b2-4066-a92c-fbfda51eca1a",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/background_pattern_1.jpg": {
+    "time": 1687146101000,
+    "uuid": "9ad61e27-7cba-48b9-a5d8-b72a76958602",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/background_wood.jpg": {
+    "time": 1687146101000,
+    "uuid": "21f9a970-f8ce-4136-9173-77b3ecefc3c0",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/barrel.png": {
+    "time": 1687146101000,
+    "uuid": "2c11da51-451b-408a-b1cd-c34e5cca3803",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/barrel_head.png": {
+    "time": 1687146101000,
+    "uuid": "10e1faf6-556b-480a-8103-9bb2e3915003",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/barrel_slot.png": {
+    "time": 1687146101000,
+    "uuid": "81a3cf9c-8b18-4f1a-b47d-0905a4e5e504",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/barrel_slot_case.png": {
+    "time": 1687146101000,
+    "uuid": "99d98d61-a76c-4b5a-8535-cfc986c7d773",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/crocodile.png": {
+    "time": 1687146101000,
+    "uuid": "1f03d322-41d4-4a5c-8f0e-e0e58067b94e",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/crocodile_oral_bottom.png": {
+    "time": 1687146101000,
+    "uuid": "d5cf63f1-a35d-497d-87ab-437e6bfaef78",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/crocodile_oral_top.png": {
+    "time": 1687146101000,
+    "uuid": "70cd486e-f476-4fa7-a0be-2fd9956a1c3b",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/down.png": {
+    "time": 1687146101000,
+    "uuid": "fe64fe7a-0caa-40c9-bbb9-9dd2517714ed",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/game_over.wav": {
+    "time": 1687146101000,
+    "uuid": "68c9be6a-4268-4426-bcb7-d983b7e34946",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/info_bg.png": {
+    "time": 1687146101000,
+    "uuid": "f0ef6dcc-c09a-4600-a7b2-78e683110cbc",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/navibar_bg.png": {
+    "time": 1687146101000,
+    "uuid": "96b16799-16fa-46a6-b906-269c856b9f12",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/next.png": {
+    "time": 1687146101000,
+    "uuid": "80f13076-2d9a-4e02-a9ee-21ca05e60e73",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/setting_bg.png": {
+    "time": 1687146101000,
+    "uuid": "e0e51723-e4ed-4f29-acfb-bb9b23fe1c99",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/setting_btn.png": {
+    "time": 1687146101000,
+    "uuid": "3c60e799-903a-4b54-a361-bf756463b63c",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/show_btn.png": {
+    "time": 1687146101000,
+    "uuid": "491c1afe-315a-42f7-b27a-453d4e26987e",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/show_btn_arrow.png": {
+    "time": 1687146101000,
+    "uuid": "d2e97083-eb33-47d3-8a82-b9ab580d5b40",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/table_cell.png": {
+    "time": 1687146101000,
+    "uuid": "8d7489bc-255d-4466-aee1-95cf4a1143fe",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/table_section.png": {
+    "time": 1687146101000,
+    "uuid": "d744d066-ec35-4f33-b4ff-991ed3e7ac5e",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/tooth_c.png": {
+    "time": 1687146101000,
+    "uuid": "e851456e-d8c0-47f0-950d-4ff87494c29e",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/sounds/click.wav": {
+    "time": 1687146101000,
+    "uuid": "eea2a767-b906-4916-87a6-6198467de110",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/prefabs/tooth_c.prefab.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/scenes/game.scene.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/back.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/background.jpg.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/background_pattern_1.jpg.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/ad_bg.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/background_wood.jpg.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/background_grass.jpg.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/barrel_slot.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/barrel_slot_case.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/barrel_head.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/barrel.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/down.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/game_over.wav.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/crocodile.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/crocodile_oral_top.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/info_bg.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/crocodile_oral_bottom.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/next.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/navibar_bg.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/setting_bg.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/show_btn.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/table_cell.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/setting_btn.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/show_btn_arrow.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/sounds/click.wav.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/table_section.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMini/Crocodile/assets/resources/res/tooth_c.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/prefabs": {
+    "time": 1687146101000,
+    "uuid": "acd46fa8-ea16-48be-a371-8ae7a344d61d",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources": {
+    "time": 1687146101000,
+    "uuid": "974b1f1b-3c69-4c3e-9bd5-be7090f23728",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/scenes": {
+    "time": 1687146101000,
+    "uuid": "95ba948e-9529-41f0-9a68-93d35f821cb4",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/scripts": {
+    "time": 1687146101000,
+    "uuid": "d61a3fb3-dc0e-4c0e-beef-6d55147e80e3",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res": {
+    "time": 1687146101000,
+    "uuid": "034c3f94-9696-487b-822c-2aa9604e5399",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/sounds": {
+    "time": 1687146101000,
+    "uuid": "87e5f0b9-c657-4af2-a998-82bca11ec872",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/scripts/AudioMgr.ts": {
+    "time": 1687146101000,
+    "uuid": "ead68b0f-1401-4594-a5e2-0a5a8501b186",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/scripts/Config.ts": {
+    "time": 1687146101000,
+    "uuid": "b6f79a30-3216-4e2d-ba87-b2d218d5766a",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/scripts/GameControl.ts": {
+    "time": 1687253706000,
+    "uuid": "e8ebddf6-1b35-4358-b0d1-5e9f57ecbc68",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/scripts/Tooth.ts": {
+    "time": 1687164195000,
+    "uuid": "524a9e28-905f-4c4a-8a10-dd7a7598e1bb",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/prefabs.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/scenes.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/scripts.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/sounds.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/scripts/AudioMgr.ts.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/scripts/Config.ts.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/scripts/GameControl.ts.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/scripts/Tooth.ts.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/prefabs/tooth_c.prefab": {
+    "time": 1687164253000,
+    "uuid": "97d8a375-209c-40b1-9e01-0cb95ac9910c",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/scenes/game.scene": {
+    "time": 1687578937000,
+    "uuid": "0206c529-a86c-4db8-9af5-ea64a8e6dcb0",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/ad_bg.png": {
+    "time": 1687146101000,
+    "uuid": "639f1607-acba-4673-bf7b-cdec7137e2df",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/back.png": {
+    "time": 1687146101000,
+    "uuid": "487b6220-7bf4-4431-8826-ff5af5560037",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/background.jpg": {
+    "time": 1687146101000,
+    "uuid": "e7d99f9f-e9e0-44d1-a4d8-43c72504bec3",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/background_grass.jpg": {
+    "time": 1687146101000,
+    "uuid": "fec8cc07-39b2-4066-a92c-fbfda51eca1a",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/background_pattern_1.jpg": {
+    "time": 1687146101000,
+    "uuid": "9ad61e27-7cba-48b9-a5d8-b72a76958602",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/background_wood.jpg": {
+    "time": 1687146101000,
+    "uuid": "21f9a970-f8ce-4136-9173-77b3ecefc3c0",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/barrel.png": {
+    "time": 1687146101000,
+    "uuid": "2c11da51-451b-408a-b1cd-c34e5cca3803",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/barrel_head.png": {
+    "time": 1687146101000,
+    "uuid": "10e1faf6-556b-480a-8103-9bb2e3915003",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/barrel_slot.png": {
+    "time": 1687146101000,
+    "uuid": "81a3cf9c-8b18-4f1a-b47d-0905a4e5e504",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/barrel_slot_case.png": {
+    "time": 1687146101000,
+    "uuid": "99d98d61-a76c-4b5a-8535-cfc986c7d773",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/crocodile.png": {
+    "time": 1687146101000,
+    "uuid": "1f03d322-41d4-4a5c-8f0e-e0e58067b94e",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/crocodile_oral_bottom.png": {
+    "time": 1687146101000,
+    "uuid": "d5cf63f1-a35d-497d-87ab-437e6bfaef78",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/crocodile_oral_top.png": {
+    "time": 1687146101000,
+    "uuid": "70cd486e-f476-4fa7-a0be-2fd9956a1c3b",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/down.png": {
+    "time": 1687146101000,
+    "uuid": "fe64fe7a-0caa-40c9-bbb9-9dd2517714ed",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/game_over.wav": {
+    "time": 1687146101000,
+    "uuid": "68c9be6a-4268-4426-bcb7-d983b7e34946",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/info_bg.png": {
+    "time": 1687146101000,
+    "uuid": "f0ef6dcc-c09a-4600-a7b2-78e683110cbc",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/navibar_bg.png": {
+    "time": 1687146101000,
+    "uuid": "96b16799-16fa-46a6-b906-269c856b9f12",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/next.png": {
+    "time": 1687146101000,
+    "uuid": "80f13076-2d9a-4e02-a9ee-21ca05e60e73",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/setting_bg.png": {
+    "time": 1687146101000,
+    "uuid": "e0e51723-e4ed-4f29-acfb-bb9b23fe1c99",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/setting_btn.png": {
+    "time": 1687146101000,
+    "uuid": "3c60e799-903a-4b54-a361-bf756463b63c",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/show_btn.png": {
+    "time": 1687146101000,
+    "uuid": "491c1afe-315a-42f7-b27a-453d4e26987e",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/show_btn_arrow.png": {
+    "time": 1687146101000,
+    "uuid": "d2e97083-eb33-47d3-8a82-b9ab580d5b40",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/table_cell.png": {
+    "time": 1687146101000,
+    "uuid": "8d7489bc-255d-4466-aee1-95cf4a1143fe",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/table_section.png": {
+    "time": 1687146101000,
+    "uuid": "d744d066-ec35-4f33-b4ff-991ed3e7ac5e",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/tooth_c.png": {
+    "time": 1687146101000,
+    "uuid": "e851456e-d8c0-47f0-950d-4ff87494c29e",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/sounds/click.wav": {
+    "time": 1687146101000,
+    "uuid": "eea2a767-b906-4916-87a6-6198467de110",
+    "missing": false
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/scenes/game.scene.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/prefabs/tooth_c.prefab.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/background.jpg.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/back.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/ad_bg.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/background_pattern_1.jpg.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/background_grass.jpg.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/background_wood.jpg.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/barrel_head.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/barrel.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/barrel_slot.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/barrel_slot_case.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/crocodile.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/down.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/game_over.wav.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/crocodile_oral_bottom.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/info_bg.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/crocodile_oral_top.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/next.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/navibar_bg.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/setting_bg.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/show_btn_arrow.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/setting_btn.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/show_btn.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/table_cell.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/sounds/click.wav.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/table_section.png.meta": {
+    "time": 1687146101000
+  },
+  "/Volumes/Data/GameSlots/GameMiniTest/Crocodile/assets/resources/res/tooth_c.png.meta": {
+    "time": 1687146101000
+  }
+}
